@@ -8606,11 +8606,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\DriveUp.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\DriveUp.csproj",
       "projectName": "DriveUp",
-      "projectPath": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\DriveUp.csproj",
+      "projectPath": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\DriveUp.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",

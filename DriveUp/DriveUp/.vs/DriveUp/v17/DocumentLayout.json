@@ -1,147 +1,147 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\",
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\views\\cars\\mycars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\views\\cars\\mycars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\views\\cars\\mycars.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_DriveUp_92a7922e_5bcc_4287_ab50_77093d666436/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\data\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\data\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\data\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\views\\admin\\listusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\views\\admin\\listusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\views\\admin\\listusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\rentacaruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\rentacaruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\rentacaruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\views\\cars\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_RentCar_94dc079b_4b2f_43d0_b8f3_4b9218386c14/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\migrations\\20240411154705_testmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\migrations\\20240411154705_testmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\migrations\\20240411154705_testmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\migrations\\20240411140839_mergecontexts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\migrations\\20240411140839_mergecontexts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\migrations\\20240411140839_mergecontexts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\migrations\\20240411154705_testmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\migrations\\20240411154705_testmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\migrations\\20240411154705_testmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\migrations\\20240411140839_mergecontexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\migrations\\20240411140839_mergecontexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\migrations\\20240411140839_mergecontexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\desktop\\driveup\\driveup\\driveup\\migrations\\20240413160857_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|c:\\users\\acer\\documents\\github\\_car_rent\\driveup\\driveup\\driveup\\migrations\\20240413160857_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71C57F4F-13D3-4507-AB2F-21841FC934A1}|DriveUp\\DriveUp.csproj|solutionrelative:driveup\\migrations\\20240413160857_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -161,81 +161,75 @@
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_DriveUp_92a7922e_5bcc_4287_ab50_77093d666436/True/SqlTable/dbo.AspNetUsers.sql",
               "ToolTip": "dbo.AspNetUsers [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-04-14T08:27:50.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T08:27:50.273Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MyCars.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Cars\\MyCars.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Cars\\MyCars.cshtml",
               "RelativeDocumentMoniker": "DriveUp\\Views\\Cars\\MyCars.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Cars\\MyCars.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Cars\\MyCars.cshtml",
               "RelativeToolTip": "DriveUp\\Views\\Cars\\MyCars.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T16:10:17.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T16:10:17.652Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "CarsController.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Controllers\\CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Controllers\\CarsController.cs",
               "RelativeDocumentMoniker": "DriveUp\\Controllers\\CarsController.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Controllers\\CarsController.cs",
               "RelativeToolTip": "DriveUp\\Controllers\\CarsController.cs",
               "ViewState": "AQIAAHwAAAAAAAAAAADwv30AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T16:14:37.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T16:14:37.676Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "DriveUp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "DriveUp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T06:30:55.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T06:30:55.221Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DriveUp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "DriveUp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T06:42:24.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T06:42:24.493Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "DriveUp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "DriveUp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T06:42:32.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T06:42:32.835Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Shared\\_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "DriveUp\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "DriveUp\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -246,35 +240,33 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Controllers\\AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "DriveUp\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Controllers\\AdminController.cs",
               "RelativeToolTip": "DriveUp\\Controllers\\AdminController.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T13:34:44.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T13:34:44.966Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Data\\Entities\\Car.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Data\\Entities\\Car.cs",
               "RelativeDocumentMoniker": "DriveUp\\Data\\Entities\\Car.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Data\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Data\\Entities\\Car.cs",
               "RelativeToolTip": "DriveUp\\Data\\Entities\\Car.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAwwDcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T16:08:27.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T16:08:27.016Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "DriveUp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeToolTip": "DriveUp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAswD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -284,9 +276,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ListUsers.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Admin\\ListUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Admin\\ListUsers.cshtml",
               "RelativeDocumentMoniker": "DriveUp\\Views\\Admin\\ListUsers.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Admin\\ListUsers.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Admin\\ListUsers.cshtml",
               "RelativeToolTip": "DriveUp\\Views\\Admin\\ListUsers.cshtml",
               "ViewState": "AQIAABQAAAAAAAAAAAAhwCMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -296,22 +288,21 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Cars\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Cars\\Index.cshtml",
               "RelativeDocumentMoniker": "DriveUp\\Views\\Cars\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Cars\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Cars\\Index.cshtml",
               "RelativeToolTip": "DriveUp\\Views\\Cars\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T16:10:26.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T16:10:26.088Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Admin\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Admin\\Edit.cshtml",
               "RelativeDocumentMoniker": "DriveUp\\Views\\Admin\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Admin\\Edit.cshtml",
               "RelativeToolTip": "DriveUp\\Views\\Admin\\Edit.cshtml",
               "ViewState": "AQIAACcAAAAAAAAAAAAAACwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -321,9 +312,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Program.cs",
               "RelativeDocumentMoniker": "DriveUp\\Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Program.cs",
               "RelativeToolTip": "DriveUp\\Program.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAAADwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -333,9 +324,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "RentACarUser.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\RentACarUser.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\RentACarUser.cs",
               "RelativeDocumentMoniker": "DriveUp\\RentACarUser.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\RentACarUser.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\RentACarUser.cs",
               "RelativeToolTip": "DriveUp\\RentACarUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -345,9 +336,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "DriveUp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "DriveUp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AQIAAJMAAAAAAAAAAAAvwDAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -357,9 +348,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "DriveUp\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "DriveUp\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -369,9 +360,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DriveUp\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "DriveUp\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -381,9 +372,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Cars\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Cars\\Edit.cshtml",
               "RelativeDocumentMoniker": "DriveUp\\Views\\Cars\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Cars\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Cars\\Edit.cshtml",
               "RelativeToolTip": "DriveUp\\Views\\Cars\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -393,9 +384,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "20240413160857_Users.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240413160857_Users.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240413160857_Users.cs",
               "RelativeDocumentMoniker": "DriveUp\\Migrations\\20240413160857_Users.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240413160857_Users.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240413160857_Users.cs",
               "RelativeToolTip": "DriveUp\\Migrations\\20240413160857_Users.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -405,9 +396,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DriveUp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "DriveUp\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -417,9 +408,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DriveUp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "DriveUp\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -429,9 +420,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "DriveUp\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "DriveUp\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -441,9 +432,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "DriveUp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeToolTip": "DriveUp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -462,9 +453,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\appsettings.json",
               "RelativeDocumentMoniker": "DriveUp\\appsettings.json",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\appsettings.json",
               "RelativeToolTip": "DriveUp\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -474,9 +465,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "DriveUp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "DriveUp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AQIAABoAAAAAAAAAAADgvyoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -486,9 +477,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "20240411140839_MergeContexts.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240411140839_MergeContexts.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240411140839_MergeContexts.Designer.cs",
               "RelativeDocumentMoniker": "DriveUp\\Migrations\\20240411140839_MergeContexts.Designer.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240411140839_MergeContexts.Designer.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240411140839_MergeContexts.Designer.cs",
               "RelativeToolTip": "DriveUp\\Migrations\\20240411140839_MergeContexts.Designer.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAAACwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -498,9 +489,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "20240411154705_TestMigration.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240411154705_TestMigration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240411154705_TestMigration.Designer.cs",
               "RelativeDocumentMoniker": "DriveUp\\Migrations\\20240411154705_TestMigration.Designer.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240411154705_TestMigration.Designer.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240411154705_TestMigration.Designer.cs",
               "RelativeToolTip": "DriveUp\\Migrations\\20240411154705_TestMigration.Designer.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAAACwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -510,9 +501,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "20240411140839_MergeContexts.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240411140839_MergeContexts.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240411140839_MergeContexts.cs",
               "RelativeDocumentMoniker": "DriveUp\\Migrations\\20240411140839_MergeContexts.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240411140839_MergeContexts.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240411140839_MergeContexts.cs",
               "RelativeToolTip": "DriveUp\\Migrations\\20240411140839_MergeContexts.cs",
               "ViewState": "AQIAAJ0AAAAAAAAAAAAQwK0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -522,9 +513,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "20240411154705_TestMigration.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240411154705_TestMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240411154705_TestMigration.cs",
               "RelativeDocumentMoniker": "DriveUp\\Migrations\\20240411154705_TestMigration.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240411154705_TestMigration.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Migrations\\20240411154705_TestMigration.cs",
               "RelativeToolTip": "DriveUp\\Migrations\\20240411154705_TestMigration.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -534,9 +525,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "DriveUp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "DriveUp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -546,9 +537,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "DriveUp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "RelativeToolTip": "DriveUp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -558,9 +549,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "DriveUp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeToolTip": "DriveUp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -570,9 +561,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "DriveUp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "DriveUp\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -582,9 +573,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "DriveUp\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\DriveUp\\DriveUp\\DriveUp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\GitHub\\_Car_Rent\\DriveUp\\DriveUp\\DriveUp\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "DriveUp\\ScaffoldingReadMe.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",

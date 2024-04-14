@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DriveUp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3081108b2b90688d333f92e8d7b0ca2f0744c45e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DriveUp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DriveUp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
