@@ -1,0 +1,41 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<RentACarUser> 
+
+    <h3>List users</h3>
+
+
+ <table class="table">
+    <tr>
+        <th>
+            Username 
+        </th>
+        <th>
+            Email
+        </th>
+        <th>
+            Pass
+        </th>
+    </tr>
+
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr> 
+                <td>
+                    @item.UserName
+                </td>
+                <td>
+                    @item.Email
+                </td>
+                <td>
+                    @item.EGN
+                </td>
+                <td>
+                    <form asp-action="DeleteUser" method="post" asp-route-id="@item.Id">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

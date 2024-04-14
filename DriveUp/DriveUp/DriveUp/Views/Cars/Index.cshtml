@@ -1,0 +1,103 @@
+﻿@model IEnumerable<DriveUp.Data.Entities.Car>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Cars</h1>
+
+@if(User.IsInRole("Admin"))
+{
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Model)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Year)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PassengerCapacity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RentPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BrandName)
+            </th>
+            @if(User.IsInRole("Admin")) 
+            {
+                <th>
+                    @Html.DisplayNameFor(model => model.IsRented)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.RentDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ReturnDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.User.ProfileName)
+                </th>
+            }
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PassengerCapacity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RentPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BrandName)
+            </td>
+            @if(User.IsInRole("Admin")) 
+            {
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsRented)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RentDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReturnDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.User.ProfileName)
+                </td>
+            }
+            <td>
+                    @if(User.IsInRole("Admin"))
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> <span>|</span> <a asp-action="Details" asp-route-id="@item.Id">Details</a> <span>|</span> <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    }
+                    else
+                    {
+                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> <span>|</span> <a asp-action="Rent" asp-route-id="@item.Id">Rent</a>
+                    }
+                </td>
+        </tr>
+}
+    </tbody>
+</table>
